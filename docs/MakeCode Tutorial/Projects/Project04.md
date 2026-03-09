@@ -148,7 +148,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 **1. Download the code file**
 
-Click to download the code file: <u>[3_3_4_Electric_Crab](./Codes/3_3_4_Electric_Crab.hex)</u>
+Click to download the code file: <u>[3_3_4_Electric_Crab](./3_3_4_Electric_Crab.zip)</u>
 
 **2. MakeCode programming environment**
 

@@ -192,7 +192,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 **1. Download the code file**
 
-Click to download the code file: <u>[3_3_3_Voice_Controlled_Animal](./Codes/3_3_3_Voice_Controlled_Animal.hex)</u>
+Click to download the code file: <u>[3_3_3_Voice_Controlled_Animal](./3_3_3_Voice_Controlled_Animal.zip)</u>
 
 **2. MakeCode programming environment**
 
