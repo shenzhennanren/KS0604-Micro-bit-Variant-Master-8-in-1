@@ -152,7 +152,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 **1. Download the code file**
 
-Click to download the code file: <u>[3_3_8_Hovering_Hawk](./3_3_8_Hovering_Hawk.zip)</u>
+Click to download the code file: <u>[3_3_8_Hovering_Hawk](./Codes/3_3_8_Hovering_Hawk.hex)</u>
 
 **2. MakeCode programming environment**
 

@@ -148,7 +148,7 @@ The online version of MakeCode: <u>[MakeCode editor](https://makecode.microbit.o
 
 **1. Download the code file**
 
-Click to download the code file: <u>[3_3_7_Ferris_Wheel](./3_3_7_Ferris_Wheel.zip)</u>
+Click to download the code file: <u>[3_3_7_Ferris_Wheel](./Codes/3_3_7_Ferris_Wheel.hex)</u>
 
 **2. MakeCode programming environment**
 
