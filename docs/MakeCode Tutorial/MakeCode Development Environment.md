@@ -52,7 +52,7 @@ Or click "**Python**" to switch to Python code:
 
 ### 3.1.3.1 Import Program in MakeCode
 
-1\. Click to download sample code: [heartbeat](./heartbeat.zip).
+1\. Click to download sample code: <u>[heartbeat](./heartbeat.7z)</u> .
 
 2\. Connect the Micro:bit V2 board to your computer via Micro USB cable.
 
