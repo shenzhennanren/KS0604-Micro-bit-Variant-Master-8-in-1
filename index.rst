@@ -5,7 +5,7 @@
 
 
    README.md
-   docs/1.Product Introduction
+   docs/Product Introduction/1.Product Introduction
    docs/Arduino/2.Arduino Tutorial
    docs/Python/3.MicroPython Tutorial
 
