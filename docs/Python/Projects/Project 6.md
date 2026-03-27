@@ -18,19 +18,7 @@ The button module has four pins. The pin 1 is connected to the pin 3 and the pin
 
 **3. Components**
 
-
-
-
-
-![img](media/c9020c6015e55923afec197ab9d03fae.png?lastModify=1774484129)</td> <td>
-
-![img](media/6d96c844b0260ad712130945d692a7a2.jpeg?lastModify=1774484129)</td> <td>
-
-![img](media/efcc7b40d80043b7b1f90ceaa8d73639.png?lastModify=1774484129)</td> <td>
-
-![img](media/0d81e07a0f67700c5a396fc7e1e614e1.jpeg?lastModify=1774484129)</td> <td>
-
-</td> </tr> <tr class="even"> <td>ESP32 Board1</td> <td>ESP32 Expansion Board1</td> <td>Keyestudio DIY Button Module1</td> <td>3P Dupont Wire1</td> <td>Micro USB Cable*1</td> </tr> </tbody> </table>
+![image-20231020083206539](media/image-20231020083206539.png)
 
 **4. Connection Diagram**
 

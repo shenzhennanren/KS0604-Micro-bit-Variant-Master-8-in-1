@@ -2,7 +2,16 @@
 2. Arduino Tutorial
 =========
 
-2.1 Arduino Development Environment Configuration
+2.1 Resources Download
+=========
+
+.. toctree::
+    :maxdepth: 1
+
+    Resources Download
+
+
+2.2 Arduino Development Environment Configuration
 =========
 
 .. toctree::
@@ -11,7 +20,7 @@
     Arduino IDE
 
 
-2.2 Projects
+2.3 Projects
 =========
 
 

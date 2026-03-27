@@ -2,7 +2,16 @@
 3. MicroPython Tutorial
 =========
 
-3.1 Thonny Development Environment Configuration
+3.1 Resources Download
+=========
+
+.. toctree::
+    :maxdepth: 1
+
+    Resources Download
+
+
+3.2 Thonny Development Environment Configuration
 =========
 
 .. toctree::
@@ -11,7 +20,7 @@
     MicroPython
 
 
-3.2 Projects
+3.3 Projects
 =========
 
 
